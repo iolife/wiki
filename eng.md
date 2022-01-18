@@ -9,8 +9,73 @@
 - [st](#st)
 - [str](#str)
 - [sc](#sc)
-
-
+- [sk](#sk)
+- [sch](#sch)]
+- [squ](#squ)
+- [dr](#dr)
+- [tr](#tr)
+- [tw](#tw)
+- [qu](#qu)
+- [ee](#ee)
+- [ea](#ea)
+- [oa](#oa)
+- [ay](#ay)
+- [ai](#ai)
+- [au](#au)
+- [aw](#aw)
+- [ow](#ow)
+- [ou](#ou)
+- [oo](#oo)
+- [oy](#oy)
+- [oi](#oi)
+- [ue](#ue)
+- [ui](#ui)
+- [ph](#ph)
+- [wr](#wr)
+- [kn](#kn)
+- [mb](#mb)
+- [ch](#ch)
+- [sh](#sh)
+- [th](#th)
+- [sm](#sm)
+- [er](#er)
+- [ir](#ir)
+- [ur](#ur)
+- [or](#or)
+- [or or e](#or or e)
+- [ie](#ir)
+- [ce](#ce)
+- [se](#se)
+- [igh](#igh)
+- [eer](#eer)
+- [ear](#ear)
+- [ere](#ere)
+- [air](#air)
+- [are](#are)
+- [ire](#ire)
+- [ore](#ore)
+- [ure](#ure)
+- [our](#our)
+- [oor](#oor)
+- [ous](#ous)
+- [tion](#tion)
+- [ation](#ation)
+- [able](#able)
+- [ture](#ture)
+- [sion](#sion)
+- [ssion](#ssion)
+- [sure](#sure)
+- [tory](#tory)
+- [tary](#tary)
+- [tual](#tual)
+- [cious](#cious)
+- [cial](#cial)
+- [tial](#tial)
+- [less](#less)
+- [tive](#tive)
+- [al](#al)
+- [el](#el)
+- [le](#le)
 ### a-e-i-o-u
 - rap grasp mast tax camp
 - pepsi weld yell elf flex
@@ -83,6 +148,115 @@ school
 ### ow
 - cow how down power
 - own low grow show
+### ou
+- out shout south round
+### oo
+- fool room mood stool
+- look book stood
+### oy
+- boy toy 
+### oi
+- oil boil
 
+### ue
+### ui
 
+### ph
+- phone photo
+### wr
+- write wrote wrap
+### kn
+- knife knock knee
+### mb
+- lam dump climb
+### ch
+- chip chill chat teach poach
+### sh
+ship shut shrink flush ash
+### th
+- thanks three think bathroom author
+- this then there with weathe
+### sm
+communism feminism idealism capitalism
+### er
+waiter serve terminate
+### ir
+birth shirt third
+### ur
+burn hurry further
+### ar
+car  art part
+### or
+born order mentor
+### ar or e
+dollar doctor
+### ie
+- field thief cookie
+- pie tie lie
 
+### ce
+- ace price sauce confidence
+### se
+- horse  purse sparse
+### igh
+- light bright tight frighten
+### eer
+- beer steer
+### ear
+- near rear fear
+- bear pear
+### ere
+- here sincere
+- where there
+### air
+- pair stair fair
+### are
+- care glare fair
+### ire
+- tire fire
+### ore
+- store pore carnivore
+### ure
+- pure cure
+### our
+- sour our flour
+### oor
+- floor door
+### ous
+- famous obvious
+### tion
+- mention caution condition action
+### ation
+-  destination vacation information
+### able
+- vagetable valuable available
+### ture
+- torture juncture
+### sion
+- decision conclusion
+### ssion
+- passion impression
+### sure
+- measure pleasure leisure
+### tory
+- history factory
+### tary
+- military secretary
+### tual
+- actual virtual  ritual
+### cious
+- delicious caucious nutricious
+### cial
+- special commercial artificial
+### tial
+- initial residential potentail
+### less
+- homeless happiness
+### tive
+- sensitive active impresstive
+### al
+-  metal mental total
+### el
+- angel tunnel level
+### le
+- little battle bottle
