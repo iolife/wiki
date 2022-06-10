@@ -31,3 +31,6 @@ libcurl-httpd24.so.4
 rpmquery -l httpd24-libcurl
 https://bugzilla.redhat.com/show_bug.cgi?id=1785720
 leetcode7810
+  Host key verification failed.
+  ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+
