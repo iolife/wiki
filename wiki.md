@@ -1,4 +1,5 @@
 ### vim
+^X U
 set tapstop
 cw change word
 ^ to the first non-blank character of the line
