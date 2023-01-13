@@ -1,9 +1,22 @@
+declare -A osInfo;
+osInfo[/etc/redhat-release]=yum
+osInfo[/etc/arch-release]=pacman
+osInfo[/etc/gentoo-release]=emerge
+osInfo[/etc/SuSE-release]=zypp
+osInfo[/etc/debian_version]=apt-get
+osInfo[/etc/alpine-release]=apk
+PM=""
+for f in ${!osInfo[@]}
+do
+    if [[ -f $f ]];then
+        PM=${osInfo[$f]}
+    fi
+done
+alias install="sudo ${PM} install "
 alias mkcd='foo(){mkdir -p "$1"; cd "$1"};foo '
-alias install='sudo pamac install'
 alias ..='cd ..'
 alias ...='cd ..; cd ..'
 alias c='clear'
-_myos='$*(uname)'
 alias cl='clear;ls;pwd'
 alias grep='grep --color'
 alias json='python -m json.tool'
@@ -13,3 +26,4 @@ alias di='docker images'
 alias drmi='docker rmi'
 alias drm='docker rm'
 alias dps='docker ps -a'
+unset PM
