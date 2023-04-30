@@ -1,23 +1,82 @@
+# Phonics
 ### [aeiou](#a-e-i-o-u)
-### [x_e](a_e)
-- [a_e](#a_e) [i_e](#i_e) [o_e](#o_e) [e_e](#e_e) [u_e](#u_e)
-- [sp](#sp) [st](#st) [str](#str) [sc](#sc) [sk](#sk) [sch](#sch) [squ](#squ)
-- [dr](#dr) [tr](#tr) [tw](#tw) [qu](#qu)
-- [ee](#ee) [ea](#ea)
-- [oa](#oa)
-- [ay](#ay) [ai](#ai)
-- [au](#au) [aw](#aw)
-- [ow](#ow) [ou](#ou) [oo](#oo)
-- [oy](#oy) [oi](#oi)
-- [ue](#ue) [ui](#ui)
-- [ph](#ph) [wr](#wr) [kn](#kn) [mb](#mb)
-- [ch](#ch) [sh](#sh) [th](#th) [sm](#sm)
-- [er](#er) [ir](#ir) [ur](#ur) [or](#or) [or or e](#or or e) [ie](#ir)
-- [ce](#ce) [se](#se)
-- [igh](#igh) [eer](#eer) [ear](#ear) [ere](#ere)
-- [air](#air) [are](#are) [ire](#ire) [ore](#ore) [ure](#ure) [our](#our) [oor](#oor) [ous](#ous)
-- [tion](#tion) [ation](#ation) [able](#able) [ture](#ture) [sion](#sion) [ssion](#ssion) [sure](#sure) [tory](#tory) [tary](#tary) [tual](#tual) [cious](#cious) [cial](#cial) [tial](#tial) [less](#less) [tive](#tive)
-- [al](#al) [el](#el) [le](#le)
+### [a_e](#a_e) 
+### [i_e](#i_e) 
+### [o_e](#o_e) 
+### [e_e](#e_e) 
+### [u_e](#u_e)
+### [sp](#sp) 
+### [st](#st) 
+### [str](#str) 
+### [sc](#sc) 
+### [sk](#sk) 
+### [sch](#sch) 
+### [squ](#squ)
+### [dr](#dr) 
+### [tr](#tr) 
+### [tw](#tw) 
+### [qu](#qu)
+### [ee](#ee) 
+### [ea](#ea)
+### [oa](#oa)
+### [ay](#ay) 
+### [ai](#ai)
+### [au](#au) 
+### [aw](#aw)
+### [ow](#ow) 
+### [ou](#ou) 
+### [oo](#oo)
+### [oy](#oy) 
+### [oi](#oi)
+### [ue](#ue) 
+### [ui](#ui)
+### [ph](#ph)
+### [wr](#wr) 
+### [kn](#kn) 
+### [mb](#mb)
+### [ch](#ch) 
+### [sh](#sh) 
+### [th](#th) 
+### [sm](#sm)
+### [er](#er) 
+### [ir](#ir) 
+### [ur](#ur) 
+### [or](#or) 
+### [ar](#ar)
+### [or](#or) 
+### [ie](#ir)
+### [ce](#ce) 
+### [se](#se)
+### [igh](#igh)
+### [eer](#eer) 
+### [ear](#ear) 
+### [ere](#ere)
+### [air](#air) 
+### [are](#are) 
+### [ire](#ire) 
+### [ore](#ore) 
+### [ure](#ure) 
+### [our](#our) 
+### [oor](#oor) 
+### [ous](#ous)
+### [tion](#tion) 
+### [ation](#ation) 
+### [able](#able) 
+### [ture](#ture) 
+### [sion](#sion) 
+### [ssion](#ssion) 
+### [sure](#sure) 
+### [tory](#tory) 
+### [tary](#tary) 
+### [tual](#tual) 
+### [cious](#cious) 
+### [cial](#cial) 
+### [tial](#tial) 
+### [less](#less)
+### [tive](#tive)
+### [al](#al) 
+### [el](#el) 
+### [le](#le)
 ### a-e-i-o-u
 - rap grasp mast tax camp
 - pepsi weld yell elf flex
@@ -114,24 +173,26 @@ school
 ### ch
 - chip chill chat teach poach
 ### sh
-ship shut shrink flush ash
+- - ship shut shrink flush ash
 ### th
 - thanks three think bathroom author
 - this then there with weathe
 ### sm
-communism feminism idealism capitalism
+- - communism feminism idealism capitalism
 ### er
-waiter serve terminate
+- - waiter serve terminate
 ### ir
-birth shirt third
+- - birth shirt third
 ### ur
-burn hurry further
+- - burn hurry further
 ### ar
-car  art part
+- car  art part
 ### or
-born order mentor
-### ar or e
-dollar doctor
+- born order mentor
+### ar
+- dollar
+## or
+- doctor
 ### ie
 - field thief cookie
 - pie tie lie
